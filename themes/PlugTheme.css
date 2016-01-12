@@ -46,12 +46,12 @@ a, a:active, a:focus, a:hover,
 	background: #AA74FE;
 }
 #private-messages .main-message-list, #private-messages .message-details {
-	background: #1A1A1A;
+	background: #56a163;
 }
 
 /* DubX Menu */
 .for_content {
-	background: #1A1A1A !important;
+	background: #56a163 !important;
 }
 .for_content_off {
 	color: #DDDDDD !important;
