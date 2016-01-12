@@ -13,23 +13,23 @@
 }
 
 #header-global .header-left-navigation:after {
-	color: #AA74FE !important;
+	color: #74fbfe !important;
 }
 /* Main Menu (right) */
 #header-global .header-right-navigation .user-info span {
-	color: #AA74FE;
+	color: #74fbfe;
 }
 
 /* Top Header */
 a, a:active, a:focus, a:hover,
 #header-global .header-left-navigation a.room-active-link.active-room .icon-chevron, #header-global .header-left-navigation a.room-active-link.active-room .icon-chevron:hover {
-	color: #AA74FE;
+	color: #74fbfe;
 }
 #main-loading {
-	background: #AA74FE;
+	background: #74fbfe;
 }
 #header-global .header-right-navigation .user-messages .message-counter {
-	background: #AA74FE;
+	background: #74fbfe;
 }
 
 /* Private Messages */
