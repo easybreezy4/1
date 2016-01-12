@@ -8,8 +8,8 @@
 
 /* Main Menu (left) */
 #main-menu-left a.room-active-link {
-	color: #AA74FE;
-    box-shadow: inset 4px 0px 0px 0px #AA74FE
+	color: #74fbfe;
+    box-shadow: inset 4px 0px 0px 0px #74fbfe
 }
 
 #header-global .header-left-navigation:after {
